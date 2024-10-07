@@ -22,6 +22,6 @@ By the end of the course, I expect to:
 2. Improve skills in debugging and enhancing existing code.
 3. Learn how to manage technical debt in long-term projects.
 
-I’m excited to work on real-world software maintenance challenges and contribute to meaningful open-source projects as part of this course!
+I’m excited to work on real-world software maintenance challenges and contribute to meaningful open-source projects as part of this course! :))
 
 [Visit my GitHub Profile](https://github.com/lolsurin)
